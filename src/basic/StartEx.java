@@ -8,6 +8,9 @@ public class StartEx {
 		
 		System.out.println("1차 push");
 		System.out.println("1차 push");
+		
+		System.out.println("3차 push");
+		System.out.println("3차 push");
 
 	}
 
