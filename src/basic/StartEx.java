@@ -17,6 +17,9 @@ public class StartEx {
 		
 		System.out.println("4에서 추가");
 		System.out.println("4에서 추가");
+		
+		System.out.println("Branch2 추가");
+		System.out.println("Branch2 추가");
 
 	}
 
