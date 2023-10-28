@@ -14,6 +14,9 @@ public class StartEx {
 
 		System.out.println("git에서 추가");
 		System.out.println("git에서 추가");
+		
+		System.out.println("4에서 추가");
+		System.out.println("4에서 추가");
 
 	}
 
