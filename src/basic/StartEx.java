@@ -20,6 +20,9 @@ public class StartEx {
 		
 		System.out.println("Branch2 추가");
 		System.out.println("Branch2 추가");
+		
+		System.out.println("master 5 추가");
+		System.out.println("master 5 추가");
 
 	}
 
