@@ -12,6 +12,9 @@ public class StartEx {
 		System.out.println("3차 push");
 		System.out.println("3차 push");
 
+		System.out.println("git에서 추가");
+		System.out.println("git에서 추가");
+
 	}
 
 }
